@@ -1,4 +1,6 @@
-﻿#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-03-26/9148034-logo-vtv1hd-a.png" group-title="Vietnam VIP",VTV1 HD
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Vietnam VIP",##########   Viet Nam   ##########
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-03-26/9148034-logo-vtv1hd-a.png" group-title="Vietnam VIP",VTV1 HD
 https://hjyjrvmlsk.vcdn.com.vn/hls/elgfjdh/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-08-16/5273187-6131906-logo-vt.png" group-title="Vietnam VIP",VTV2 HD
 https://hjyjrvmlsk.vcdn.com.vn/hls/m0hlc1s/index.m3u8
